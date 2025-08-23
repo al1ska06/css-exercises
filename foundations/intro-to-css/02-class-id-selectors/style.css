@@ -1,0 +1,14 @@
+p{
+    background-color: rgb(243, 178, 170);
+}
+
+#bleu{
+    color:blue;
+    font-size: 50px;
+}
+
+#greeg{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 30px;
+}

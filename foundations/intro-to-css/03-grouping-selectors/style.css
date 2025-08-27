@@ -1,0 +1,15 @@
+.b1,
+.b2 {
+   border-color: rgb(59, 58, 58); 
+   font-size: 40px;
+}
+
+.b1{
+    background-color: black;
+    color: white;
+}
+
+.b2{
+    background-color: yellow;
+    color: black;
+}
